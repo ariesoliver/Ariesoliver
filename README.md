@@ -6,7 +6,8 @@ const introduction = {
   passions: ["Web Development", "Samp Developer" "Learning"],
   skills: ["HTML", "CSS", "JavaScript", "PAWN"],
   github: "https://github.com/ariesoliver",
-  facebook: "https://www.facebook.com/Ariesoliver77", 
+  facebook: "https://www.facebook.com/Ariesoliver77",
+   i want to be a pro hecker"
 };
 
 const introduceMyself = ({ name, profession, location, passions, skills, portfolio, github, socialMedia, quote }) => {
